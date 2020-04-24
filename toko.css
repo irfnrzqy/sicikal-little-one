@@ -1,0 +1,23 @@
+image/bk2.jpg{
+				  width: 100%;
+}
+.card p {
+	margin-top: -10px;
+	margin-bottom: 10px;
+}
+.row{
+	margin-bottom: 40px;
+}
+.row .card:hover{
+	box-shadow: 2px 2px 2px rgba(0,0,0,0.4);
+	transform: scale(1.02);
+}
+
+body{
+	background-color: black;
+	background-repeat: repeat;
+}
+
+ul {
+	list-style: none;
+}
